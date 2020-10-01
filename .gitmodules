@@ -1,0 +1,9 @@
+[submodule "notification-config"]
+	path = notification-config
+	url = https://github.com/aswathy-dinarajan/notification-config.git
+[submodule "notification-config-backend"]
+	path = notification-config-backend
+	url = https://github.com/aswathy-dinarajan/notification-config-backend.git
+[submodule "notification-reminder-lambda"]
+	path = notification-reminder-lambda
+	url = https://github.com/aswathy-dinarajan/notification-reminder-lambda.git
