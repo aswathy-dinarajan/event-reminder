@@ -7,3 +7,6 @@
 [submodule "notification-reminder-lambda"]
 	path = notification-reminder-lambda
 	url = https://github.com/aswathy-dinarajan/notification-reminder-lambda.git
+[submodule "notification-reminder-lambda-email"]
+	path = notification-reminder-lambda-email
+	url = https://github.com/aswathy-dinarajan/notification-reminder-lambda-email.git
